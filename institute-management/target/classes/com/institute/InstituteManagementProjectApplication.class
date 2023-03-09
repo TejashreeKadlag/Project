@@ -1,0 +1,7 @@
+Êþº¾   = -  3com/institute/InstituteManagementProjectApplication  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this 5Lcom/institute/InstituteManagementProjectApplication; main ([Ljava/lang/String;)V  2com/institute/InstituteManagementSystemApplication
+    *org/springframework/boot/SpringApplication   run b(Ljava/lang/Class;[Ljava/lang/String;)Lorg/springframework/context/ConfigurableApplicationContext;	    java/lang/System   out Ljava/io/PrintStream;  --------Running------------
+ ! # " java/io/PrintStream $ % println (Ljava/lang/String;)V args [Ljava/lang/String; MethodParameters 
+SourceFile *InstituteManagementProjectApplication.java RuntimeVisibleAnnotations >Lorg/springframework/boot/autoconfigure/SpringBootApplication; !               /     *· ±    
+                    	       B     *¸ W² ¶  ±    
+                    & '   (    &    )    * +     ,  
